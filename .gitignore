@@ -14,6 +14,8 @@
 **/.DS_Store
 **/seed_sweep_wilds
 **/seed_sweep_imdb
+**/polarity_seed_1
+**/amazon_polarity_processed_split_seed_1
 
 *.aux
 *.bbl
