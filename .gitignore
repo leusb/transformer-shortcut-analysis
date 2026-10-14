@@ -16,6 +16,11 @@
 **/seed_sweep_imdb
 **/polarity_seed_1
 **/amazon_polarity_processed_split_seed_1
+**/seed_sweep_amazon
+**/gpt2-imdb-finetuned-v1
+**/bert-beer-correlation1-seed42
+**/bert-beer-occurrence1-seed42
+**/beer_pipeline_datasets
 
 *.aux
 *.bbl
