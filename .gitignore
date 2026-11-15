@@ -21,6 +21,8 @@
 **/bert-beer-correlation1-seed42
 **/bert-beer-occurrence1-seed42
 **/beer_pipeline_datasets
+**/gpt2-beer-correlation1-seed42
+**/gpt2-beer-occurrence1-seed42
 
 *.aux
 *.bbl
