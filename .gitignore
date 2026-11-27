@@ -45,3 +45,4 @@
 *.bcf
 *.npz
 *.csv
+*.npy
