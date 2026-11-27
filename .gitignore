@@ -23,6 +23,8 @@
 **/beer_pipeline_datasets
 **/gpt2-beer-correlation1-seed42
 **/gpt2-beer-occurrence1-seed42
+**/beer_shortcuts_output
+
 
 *.aux
 *.bbl
@@ -41,3 +43,5 @@
 *.gz
 *.xdv
 *.bcf
+*.npz
+*.csv
